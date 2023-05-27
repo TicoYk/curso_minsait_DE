@@ -1,10 +1,5 @@
-// Lembrar aula-1
+// Aula-1
  
 // Hadoop Distributed File System
 hdfs dfs -copyFromLocal test2.txt /aula
 hdfs dfs -ls /
-
-
-docker exec -it hive-server bash
-
-docker-compose stop -d
